@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "mevr"]
 	path = mevr
-	url = https://github.com/cran/mevr
+	url = https://github.com/haraldschellander/mevr
